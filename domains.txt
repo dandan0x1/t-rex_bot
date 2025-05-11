@@ -1,0 +1,4 @@
+mydomain.com
+example.org
+testdomain.net
+custommail.co
